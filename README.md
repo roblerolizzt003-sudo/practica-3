@@ -1,41 +1,42 @@
 # Refugio "Huellitas"
 
-Página web estática de un refugio de animales enfocada en mostrar mascotas disponibles para adopción.
+Sitio web estático para un refugio de animales, diseñado para mostrar mascotas disponibles para adopción de forma sencilla y visual.
 
 ## Descripción
 
-Este proyecto consiste en una página web desarrollada únicamente con:
+Este proyecto es una página web desarrollada con HTML y CSS que simula el sitio de un refugio de animales.
 
-- HTML
-- CSS
+Permite:
+- Mostrar información del refugio
+- Visualizar mascotas en adopción
+- Navegar entre secciones
+- Presentar una interfaz amigable y limpia
 
-La página simula el sitio de un refugio de animales donde se muestran mascotas disponibles para adopción junto con información básica.
+## Demo
 
-## Contenido de la página
+Este proyecto puede ser publicado usando **GitHub Pages** y ser accesible desde internet.
 
-La página incluye:
+## Características
 
-- Encabezado con el nombre del refugio
-- Imagen decorativa
-- Menú de navegación
-- Sección "Nosotros"
-- Sección de animales en adopción
-- Tarjetas con información de mascotas
-- Botones de "Adoptar" (solo visuales)
-- Sección de contacto
-- Pie de página
+- Diseño limpio y responsive básico
+- Tarjetas de mascotas
+- Navegación por secciones
+- Botones interactivos (solo visuales)
+- Uso de imágenes locales
+- Estilos personalizados con CSS
 
 ## Tecnologías utilizadas
 
 - HTML5
 - CSS3
 
-##  Estructura del proyecto
-
-proyecto/
-  index.html
-  imagenes/
-    gatito perrito.png
-    perrito 1.jpg
-    gatito 1.jpg
-    gatito 2.jpg
+## Estructura del proyecto
+refugio-huellitas/
+│
+├── index.html
+├── style.css
+└── imagenes/
+├── gatito-perrito.png
+├── perrito1.jpg
+├── gatito1.jpg
+├── gatito2.jpg
